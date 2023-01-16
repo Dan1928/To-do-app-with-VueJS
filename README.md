@@ -1,24 +1,5 @@
 # todo_app_vue
 
-## Project setup
-```
-npm install
-```
+## Veja o projeto funcionando: https://to-do-app-with-vue-js.vercel.app/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Captura de tela 2023-01-16 104136](https://user-images.githubusercontent.com/104202323/212692205-adb0a346-f3bd-4449-9239-0f44e7175745.jpg)
